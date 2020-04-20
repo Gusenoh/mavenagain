@@ -1,6 +1,5 @@
 # mavensteps
 Reminders for setting up a maven project
-# myMaven
 Steps to run a maven project in itellij ide
 select a new project 
 Then select maven
